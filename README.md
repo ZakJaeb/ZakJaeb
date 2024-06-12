@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud & Cybersecurity Projects:</h2>
 
-<!-- - [Implementing a SOC and Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice) -->
+- [Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)
 - [Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)
 
 <h2>📺 Popular YouTube Videos</h2>
