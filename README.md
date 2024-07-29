@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zak! <br/><a href="https://www.linkedin.com/in/zakjaeb/">Network Administrator</a>, <a href="https://github.com/zakjaeb">Cybersecurity enthusiast</a>
+<h1>Hi, I'm Zak! <br/><a href="https://www.linkedin.com/in/zakjaeb/">IT Professional</a>, <a href="https://github.com/zakjaeb">Cybersecurity enthusiast</a>
 
 <h2>👨‍💻 Cloud & Cybersecurity Projects:</h2>
 
