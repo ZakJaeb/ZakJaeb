@@ -2,5 +2,6 @@
 
 <h2>👨‍💻 Cloud & Cybersecurity Projects:</h2>
 
+- [Nessus Vulnerability Management Lab](https://github.com/ZakJaeb/Nessus-Vuln-Manage)
 - [Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)
 - [Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)
