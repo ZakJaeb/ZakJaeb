@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zak! <br/><a href="https://www.linkedin.com/in/zakjaeb/">IT Professional</a>, <a href="https://www.youtube.com/ZakJaeb">Content Creator</a>
+<h1>Hi, I'm Zak! <br/><a href="https://www.linkedin.com/in/zakjaeb/">IT Systems Engineer</a>, <a href="https://www.youtube.com/ZakJaeb">Content Creator</a>
 
 <h2>👨‍💻 Latest Projects:</h2>
 
