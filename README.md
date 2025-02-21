@@ -1,14 +1,16 @@
-<h1>Hi, I'm Zak! <br/><a href="https://www.linkedin.com/in/zakjaeb/">IT Systems Engineer</a>, <a href="https://www.youtube.com/ZakJaeb">Content Creator</a>
+# <a href="https://www.linkedin.com/in/zakjaeb/">Zak Jaeb</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Latest Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>Vulnerability Management</b>
-  - [Nessus Vulnerability Management Lab](https://github.com/ZakJaeb/Nessus-Vuln-Manage)
-- <b>Cloud Networking & Security</b>
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)
-  - [Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)
-- <b>CySA+ Labs</b>
-  - Coming Soon!
+## ⚠️ Vulnerability Management Projects
+- **[Nessus Vulnerability Management Lab](https://github.com/ZakJaeb/Nessus-Vuln-Manage)**
+
+## ☁️ Cloud & Networking
+- **[Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)**
+- **[Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)**
+
+## 🚨 Threat Hunting and Security Operations
+- **Coming Soon!
 
 <h2> 🤳 Connect with me:</h2>
 
