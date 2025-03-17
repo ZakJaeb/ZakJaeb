@@ -6,11 +6,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Tenable Nessus Vulnerability Management Lab](https://github.com/ZakJaeb/Nessus-Vuln-Manage)**
 
 ## ☁️ Cloud & Networking
-- **[Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)**
 - **[Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)**
 
 ## 🚨 Threat Hunting and Security Operations
-- **Coming Soon!
+- **[Implementing a SOC and Honeynet in Azure](https://github.com/ZakJaeb/SOC-Honeynet-Azure)**
 
 <h2> 🤳 Connect with me:</h2>
 
