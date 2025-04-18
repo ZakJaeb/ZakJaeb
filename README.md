@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Tenable Nessus Vulnerability Management Lab](https://github.com/ZakJaeb/Nessus-Vuln-Manage)**
 
 ## ☁️ Cloud & Networking
-- **[Cloud Resume Challenge](https://github.com/ZakJaeb/Cloud-Resume-Challenge-Azure)**
+- **[Cloud Resume Challenge - Azure](https://github.com/ZakJaeb/Cloud-Resume-Challenge-Azure)**
 - **[Azure S2S VPN Tunnel to Homelab](https://github.com/ZakJaeb/Azure-S2S-Lab)**
 
 ## 🚨 Threat Hunting and Security Operations
