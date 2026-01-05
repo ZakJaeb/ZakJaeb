@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/zakjaeb/">Zak Jaeb</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/zakjaeb/">Zak Jaeb</a>'s Cloud and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m a senior IT technician and aspiring cloud engineer who enjoys building, automating, and securing cloud infrastructure. My projects highlight practical experience with cloud platforms, infrastructure-as-code, and security engineering to create scalable and well-architected systems.
 
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/ZakJaeb/vulnerability-management-program)**
