@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/zakjaeb/">Zak Jaeb</a>'s Cloud and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/zakjaeb/">Zak Jaeb</a>'s Cloud and DevOps Project Portfolio 🔐
 
 I’m a senior IT technician and aspiring cloud engineer who enjoys building, automating, and securing cloud infrastructure. My projects highlight practical experience with cloud platforms, infrastructure-as-code, and security engineering to create scalable and well-architected systems.
 
